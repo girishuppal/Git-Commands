@@ -5,7 +5,7 @@
 `git` <br/>
 This command will let you know if git has installed on your machine or not
 
-`git-v` <br/>
+`git-v` OR `git--version` <br/> 
 Displays git version installed on your machine
 
 `git update-git-for-windows` <br/>
